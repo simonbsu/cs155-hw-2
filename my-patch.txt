@@ -1,0 +1,28 @@
+Return-Path: <simonwilch@u.boisestate.edu>
+Received: from codespaces-9c28bc.wqafff5oxx3unlavkmpkilcynd.xx.internal.cloudapp.net ([4.155.45.98])
+        by smtp.gmail.com with ESMTPSA id 41be03b00d2f7-7db498de2d5sm5204747a12.15.2024.09.17.11.38.30
+        for <simonwilch@u.boisestate.edu>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Tue, 17 Sep 2024 11:38:30 -0700 (PDT)
+From: simonbsu <simonwilch@u.boisestate.edu>
+To: simonwilch@u.boisestate.edu
+Subject: [PATCH] Actually put in my name
+Date: Tue, 17 Sep 2024 18:38:24 +0000
+Message-ID: <20240917183824.13633-1-simonwilch@u.boisestate.edu>
+X-Mailer: git-send-email 2.46.0
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+
+---
+ my-name.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/my-name.txt b/my-name.txt
+index e66c1e8..83fba84 100644
+--- a/my-name.txt
++++ b/my-name.txt
+@@ -1 +1 @@
+-My Name
++Simon
+-- 
+2.46.0
